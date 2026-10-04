@@ -90,9 +90,11 @@ Based on the analysis:
 5. No AQI values were identified as anomalies using the mean ± 2 standard deviations method.
 
 Conclusion
+
 The interactive Power BI dashboard provides a clear visual representation of the India AQI dataset.
 The dashboard allows users to analyze AQI trends, compare air quality across cities, understand AQI category distribution, and explore pollutant levels using interactive filters.
 
 Learning Outcome
+
 Through this task, I practiced creating interactive dashboards using Microsoft Power BI.
 I learned how to create KPI cards, build different visualizations, add interactive filters, analyze trends and comparisons, and present data insights through an interactive dashboard.
